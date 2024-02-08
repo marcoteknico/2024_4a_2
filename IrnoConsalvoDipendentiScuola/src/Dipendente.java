@@ -1,5 +1,5 @@
 /**
- * versione 3
+ * versione 1
  */
 public class Dipendente {
 	
