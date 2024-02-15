@@ -1,5 +1,9 @@
 /**
+<<<<<<< HEAD
  * marco2
+=======
+ * antonio
+>>>>>>> branch 'master' of https://github.com/marcoteknico/2024_4a_2.git
  */
 public class Scuola {
 
