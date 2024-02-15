@@ -1,5 +1,5 @@
 /**
- * marco
+ * marco2
  */
 public class Scuola {
 
