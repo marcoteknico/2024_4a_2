@@ -1,4 +1,6 @@
-
+/**
+ * marco3
+ */
 public class Docente extends Dipendente {
 
 	protected String materia;
