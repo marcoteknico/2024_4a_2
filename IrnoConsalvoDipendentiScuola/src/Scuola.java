@@ -1,4 +1,6 @@
-
+/**
+ * antonio
+ */
 public class Scuola {
 
 	private String nomeS;
