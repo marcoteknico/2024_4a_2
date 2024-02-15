@@ -1,4 +1,6 @@
-
+/**
+ * marco 4
+ */
 public class Collaboratore extends Dipendente {
 
 	protected String pianoLav;
