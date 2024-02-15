@@ -25,10 +25,6 @@ public class Dipendente {
 
 	public String getIndirizzo() {
 		
-		
-		
-		
-		
 		return indirizzo;
 	}
 
